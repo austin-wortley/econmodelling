@@ -20,7 +20,6 @@ WindowFrame->Normal*)
 Notebook[{
 Cell["\<\
 Final Project Econ Modeling
-Ellis Brown, Raviteja Kasturi, Austin Wortley
 Modeling Venture Capital Decisions\
 \>", "Text",
  CellChangeTimes->{{3.702246771133897*^9, 
